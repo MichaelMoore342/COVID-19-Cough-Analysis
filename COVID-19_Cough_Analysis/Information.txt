@@ -1,0 +1,9 @@
+Michael Moore (2118213)
+
+CovidCrop.m should be run first using original signals in Covid file.
+
+NoCovidCrop.m should be run next using original signals in noCovid file.
+
+Main_code.m should be run next using cropped signals in noCovidCrop file.
+
+Results.m should be run last using cropped signals in noCovidCrop file.
